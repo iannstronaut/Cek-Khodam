@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nama": "Farhan Kebab",
+      "image": "/khodam/farhan.jpg"
+    },
+    { "id": 2, "nama": "Anjim", "image": "/khodam/Anjim.jpg" },
+    { "id": 3, "nama": "Pinguin", "image": "/khodam/pinguin.jpg" },
+    {
+      "id": 4,
+      "nama": "Macan Cisewu",
+      "image": "/khodam/Macan.jpg"
+    }
+  ]
+}
