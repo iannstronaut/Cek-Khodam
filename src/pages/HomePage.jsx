@@ -43,6 +43,9 @@ function HomePage() {
           )}
         </div>
       </div>
+      <h1 className="text-center text-white">
+        Create By <a href="https://github.com/iannstronaut">Iannstronaut</a>
+      </h1>
     </div>
   );
 }
