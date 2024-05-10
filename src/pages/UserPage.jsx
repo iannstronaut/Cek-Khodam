@@ -8,7 +8,7 @@ function UserPage() {
   const khodam = data.data.find((item) => item.id === random);
   return (
     <div className="h-screen flex justify-center items-center ">
-      <div className="w-1/4 bg-black rounded-3xl bg-opacity-70 backdrop-blur-sm p-4">
+      <div className="w-1/4 lg:w-1/3 md:w-3/5 sm-w-3/4 bg-black rounded-3xl bg-opacity-70 backdrop-blur-sm p-4">
         <h1 className="text-white text-2xl font-semibold">
           {id}, Khodam Anda Adalah
         </h1>

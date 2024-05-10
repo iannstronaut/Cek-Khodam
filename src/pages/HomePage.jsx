@@ -8,7 +8,7 @@ function HomePage() {
       <h1 className="text-white text-center font-bold text-xl mb-4">
         Cek Khodam Online
       </h1>
-      <div className="w-1/4 bg-black rounded-3xl bg-opacity-70 backdrop-blur-sm">
+      <div className="w-1/4 lg:w-1/3 md:w-3/5 sm:w-3/4 bg-black rounded-3xl bg-opacity-70 backdrop-blur-sm">
         <div className="text-center flex flex-col justify-center items-center p-5">
           <div className="w-full mb-5">
             <label
