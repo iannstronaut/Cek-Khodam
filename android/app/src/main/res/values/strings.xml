@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cek-khodam</string>
+    <string name="title_activity_main">cek-khodam</string>
+    <string name="package_name">com.iannrepo.cekkhodam</string>
+    <string name="custom_url_scheme">com.iannrepo.cekkhodam</string>
+</resources>

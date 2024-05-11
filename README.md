@@ -1,2 +1,1 @@
-# Cek Khodam Using React + Vite
-
+# Cek Khodam Using React + Vite + Capacitor
